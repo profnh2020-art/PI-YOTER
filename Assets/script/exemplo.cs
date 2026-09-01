@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class exemplo : MonoBehaviour
 {
-    public string_nome;
+    public string _nome;
     void Start()
     {
         _nome = "RAISSA";
