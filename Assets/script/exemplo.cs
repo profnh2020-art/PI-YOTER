@@ -2,10 +2,10 @@ using UnityEngine;
 
 public class exemplo : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public string_nome;
     void Start()
     {
-        
+        _nome = "RAISSA";
     }
 
     // Update is called once per frame
