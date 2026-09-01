@@ -7,6 +7,7 @@ public class exemplo : MonoBehaviour
     {
         _nome = "RAISSA";
         _nome = "EBER";
+        _nome = "Titan";
     }
 
     // Update is called once per frame
