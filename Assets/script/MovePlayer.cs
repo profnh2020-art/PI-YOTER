@@ -32,7 +32,7 @@ public class MovePlayer : MonoBehaviour
         if (_checkGround == true)
         {
             // Adiciona uma força vertical ao Rigidbody2D para fazer o jogador pular
-            _rig2d.AddForceY(100);
+            _rig2d.AddForceY(180);
             Debug.Log("pulo");
         }
     }
