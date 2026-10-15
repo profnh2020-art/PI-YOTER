@@ -1,38 +1,36 @@
 using UnityEngine;
 
-
-public class ExemploIF : MonoBehaviour    
-{
+public class ExemploIF : MonoBehaviour
+    
+{ 
     public int vida = 100;
-    public int pontos = 100;
+    public int pontos = 1000;
 
     void Start()
     {
         if (vida == 100)
         {
-            Debug.Log("player está vivo");
-        }else if (vida == 0)
-                    {
-            Debug.Log("player morreu");
+            Debug.Log("jogador vivo");
         }
-        if (vida != 0)
+        if (vida != 99)
         {
-            Debug.Log("player está diferente de 0");
+            Debug.Log("Jogador não está morto");
         }
-        if (vida > 100)
-        {
-            Debug.Log("player está com vida extra");
-        }
-        if (pontos >= 100)
-        {
-            Debug.Log("Pontuação Alta!");
-        }
-
-    }
-
-    void Update()
-    {
         
     }
 
+
+    void Update()
+    {
+        if (pontos <= 0)
+        {
+            Debug.Log("Você morreu");
+        }
+
+     
+        if (pontos > 1000)
+        {
+            Debug.Log("pontuação alta");
+        }
+    }
 }
