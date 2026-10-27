@@ -8,7 +8,6 @@ public class movimentosJogador : MonoBehaviour
     bool olhandodireita = false;
     float ForcaPulo = 10f;
     bool chao = true;
-    bool ataque = true;
 
     Rigidbody2D RB;
     Animator animator;
@@ -33,14 +32,7 @@ public class movimentosJogador : MonoBehaviour
             chao = true;
             animator.SetBool("Pulando", !chao);
         }
-
-        if (Input.GetKeyDown(KeyCode.C) && !chao)
-        {
-
-            animator.SetBool("ataque",true);
-        }
-    }   
-
+    }
     private void FixedUpdate()
     {
         RB.linearVelocity = new Vector2(horizontalInput * VelocidadeMovimento, RB.linearVelocity.y);
