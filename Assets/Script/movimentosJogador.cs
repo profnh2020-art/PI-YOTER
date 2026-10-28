@@ -9,6 +9,7 @@ public class movimentosJogador : MonoBehaviour
     float ForcaPulo = 10f;
     bool chao = true;
     bool ataque = true;
+    bool podemover = true;
 
     Rigidbody2D RB;
     Animator animator;
@@ -25,6 +26,12 @@ public class movimentosJogador : MonoBehaviour
     {
         horizontalInput = Input.GetAxis("Horizontal");
 
+        if (animator.GetCurrentAnimatorStateInfo(0).IsName("soco"))
+        {
+            VelocidadeMovimento = 0f;
+        } else {
+            VelocidadeMovimento = 5f;
+        }
         FlipSprite();
 
         if (Input.GetButtonDown("Jump") && !chao)
@@ -37,10 +44,15 @@ public class movimentosJogador : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.C) && !chao)
         {
 
-            animator.SetBool("ataque",true);
+            animator.SetTrigger("ataque");
+            podemover = false;
         }
-    }   
+       
 
+    }
+
+        
+ 
     private void FixedUpdate()
     {
         RB.linearVelocity = new Vector2(horizontalInput * VelocidadeMovimento, RB.linearVelocity.y);
@@ -63,5 +75,6 @@ public class movimentosJogador : MonoBehaviour
         chao = false;
         animator.SetBool("Pulando", !chao);
     }
+
 }
 
