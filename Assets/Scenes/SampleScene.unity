@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 19677476}
   - component: {fileID: 19677477}
   m_Layer: 0
-  m_Name: FaseT_Camada2_0
+  m_Name: Predio_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -145,11 +145,11 @@ Transform:
   m_GameObject: {fileID: 19677475}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.7804217, y: -0.001, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 51.88, y: 1.22, z: 0}
+  m_LocalScale: {x: 13.729207, y: 16.054298, z: 11.5722}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &19677477
 SpriteRenderer:
@@ -328,7 +328,7 @@ Transform:
   m_GameObject: {fileID: 31354889}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -53.37, y: -1.49, z: 0}
+  m_LocalPosition: {x: 41.98, y: -2.94, z: 0}
   m_LocalScale: {x: 7.4689226, y: 7.4689226, z: 7.4689226}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -477,7 +477,7 @@ GameObject:
   - component: {fileID: 41069290}
   - component: {fileID: 41069291}
   m_Layer: 0
-  m_Name: FaseT_Camada2_4
+  m_Name: Casa_Caixa_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -492,11 +492,11 @@ Transform:
   m_GameObject: {fileID: 41069289}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.095539, y: -0.212, z: 0}
-  m_LocalScale: {x: 0.89140004, y: 0.89140004, z: 0.89140004}
+  m_LocalPosition: {x: 21.003206, y: -3.3167253, z: 0}
+  m_LocalScale: {x: 10.387668, y: 10.482297, z: 10.315459}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &41069291
 SpriteRenderer:
@@ -642,8 +642,8 @@ Transform:
   m_GameObject: {fileID: 48047202}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.38, y: -2.23, z: 0}
-  m_LocalScale: {x: 22.917858, y: 22.917858, z: 22.917858}
+  m_LocalPosition: {x: -2.38, y: -2.6641, z: 0}
+  m_LocalScale: {x: 22.917858, y: 17.811611, z: 22.917858}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1579586788}
@@ -4409,7 +4409,7 @@ Transform:
   m_GameObject: {fileID: 453163908}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -53.37, y: 4.0382004, z: -10.06}
+  m_LocalPosition: {x: 41.98, y: 2.5882006, z: -10.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5187,7 +5187,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -53.37, y: 4.0382004, z: -10.06}
+  m_LocalPosition: {x: 41.98, y: 2.5882006, z: -10.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7839,7 +7839,7 @@ GameObject:
   - component: {fileID: 842925734}
   - component: {fileID: 842925735}
   m_Layer: 0
-  m_Name: FaseT_Camada2_0 (1)
+  m_Name: Predio_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7854,11 +7854,11 @@ Transform:
   m_GameObject: {fileID: 842925733}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.6152, y: -0.013826235, z: 0}
-  m_LocalScale: {x: 1.00808, y: 1, z: 1}
+  m_LocalPosition: {x: 73.724, y: 0.9592, z: 0}
+  m_LocalScale: {x: 13.535289, y: 15.899751, z: 11.5722}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &842925735
 SpriteRenderer:
@@ -9027,7 +9027,7 @@ GameObject:
   - component: {fileID: 1086031734}
   - component: {fileID: 1086031735}
   m_Layer: 0
-  m_Name: FaseT_Camada2_4 (1)
+  m_Name: Casa_Caixa_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9042,11 +9042,11 @@ Transform:
   m_GameObject: {fileID: 1086031733}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.433, y: -0.217, z: 0}
-  m_LocalScale: {x: 0.89140004, y: 0.89140004, z: 0.89140004}
+  m_LocalPosition: {x: 59.895325, y: -3.3755217, z: 0}
+  m_LocalScale: {x: 10.387668, y: 10.482297, z: 10.315459}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1086031735
 SpriteRenderer:
@@ -9300,7 +9300,7 @@ GameObject:
   - component: {fileID: 1120978542}
   - component: {fileID: 1120978543}
   m_Layer: 0
-  m_Name: FaseT_Camada2_2 (1)
+  m_Name: Bar_Tom_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9315,11 +9315,11 @@ Transform:
   m_GameObject: {fileID: 1120978541}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.15, y: -0.186, z: 0}
-  m_LocalScale: {x: 0.89139986, y: 0.89139986, z: 0.89139986}
+  m_LocalPosition: {x: 44.76, y: -2.76, z: 0}
+  m_LocalScale: {x: 10.387665, y: 10.482295, z: 10.315457}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1120978543
 SpriteRenderer:
@@ -11264,7 +11264,7 @@ GameObject:
   - component: {fileID: 1440880957}
   - component: {fileID: 1440880958}
   m_Layer: 0
-  m_Name: FaseT_Camada2_2
+  m_Name: Bar_Tom_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11279,11 +11279,11 @@ Transform:
   m_GameObject: {fileID: 1440880956}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.6515614, y: -0.187, z: 0}
-  m_LocalScale: {x: 0.89139986, y: 0.89139986, z: 0.89139986}
+  m_LocalPosition: {x: 4.176237, y: -3.0227413, z: 0}
+  m_LocalScale: {x: 10.387665, y: 10.482295, z: 10.315457}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1440880958
 SpriteRenderer:
@@ -12039,7 +12039,7 @@ GameObject:
   - component: {fileID: 1590452975}
   - component: {fileID: 1590452976}
   m_Layer: 0
-  m_Name: FaseT_Camada2_3
+  m_Name: Casa_Muro_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12054,11 +12054,11 @@ Transform:
   m_GameObject: {fileID: 1590452974}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.3774388, y: -0.138, z: 0}
-  m_LocalScale: {x: 0.89140004, y: 0.89140004, z: 0.89140004}
+  m_LocalPosition: {x: 12.635036, y: -2.4465322, z: 0}
+  m_LocalScale: {x: 10.387668, y: 10.482297, z: 10.315459}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1590452976
 SpriteRenderer:
@@ -12457,7 +12457,7 @@ GameObject:
   - component: {fileID: 1630848734}
   - component: {fileID: 1630848735}
   m_Layer: 0
-  m_Name: FaseT_Camada2_3 (1)
+  m_Name: Casa_Muro_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12472,11 +12472,11 @@ Transform:
   m_GameObject: {fileID: 1630848733}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.358, y: -0.129, z: 0}
-  m_LocalScale: {x: 0.89140004, y: 0.89140004, z: 0.89140004}
+  m_LocalPosition: {x: 35.71492, y: -2.3406978, z: 0}
+  m_LocalScale: {x: 10.387668, y: 10.482297, z: 10.315459}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1630848735
 SpriteRenderer:
@@ -13370,7 +13370,7 @@ GameObject:
   - component: {fileID: 1741401672}
   - component: {fileID: 1741401671}
   m_Layer: 0
-  m_Name: Camada_Cenario
+  m_Name: Predio_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13443,21 +13443,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1741401670}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -33.76, y: 1.39, z: 0}
-  m_LocalScale: {x: 11.5722, y: 11.5722, z: 11.5722}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -4.9877, y: 1.0674, z: 0}
+  m_LocalScale: {x: 16.097132, y: 15.782892, z: 11.5722}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1440880957}
-  - {fileID: 1120978542}
-  - {fileID: 1590452975}
-  - {fileID: 1630848734}
-  - {fileID: 41069290}
-  - {fileID: 1086031734}
-  - {fileID: 2050535403}
-  - {fileID: 19677476}
-  - {fileID: 842925734}
-  m_Father: {fileID: 0}
+  m_Children: []
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1790527693
 GameObject:
@@ -14888,7 +14879,7 @@ GameObject:
   - component: {fileID: 2050535403}
   - component: {fileID: 2050535404}
   m_Layer: 0
-  m_Name: FaseT_Camada2_4 (2)
+  m_Name: Casa_Caixa_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14903,11 +14894,11 @@ Transform:
   m_GameObject: {fileID: 2050535402}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 6.07, y: -0.215, z: 0}
-  m_LocalScale: {x: 0.89140004, y: 0.89140004, z: 0.89140004}
+  m_LocalPosition: {x: 67.31841, y: -3.352003, z: 0}
+  m_LocalScale: {x: 10.387668, y: 10.482297, z: 10.315459}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1741401672}
+  m_Father: {fileID: 2121484164}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &2050535404
 SpriteRenderer:
@@ -15884,6 +15875,47 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1007413856}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2121484163
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2121484164}
+  m_Layer: 0
+  m_Name: Camada_Cenario
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2121484164
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2121484163}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -30.31946, y: 2.30184, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1741401672}
+  - {fileID: 1440880957}
+  - {fileID: 1120978542}
+  - {fileID: 1590452975}
+  - {fileID: 1630848734}
+  - {fileID: 41069290}
+  - {fileID: 1086031734}
+  - {fileID: 2050535403}
+  - {fileID: 19677476}
+  - {fileID: 842925734}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2121783573
 GameObject:
   m_ObjectHideFlags: 0
@@ -15981,10 +16013,10 @@ SceneRoots:
   m_Roots:
   - {fileID: 453163911}
   - {fileID: 519420032}
-  - {fileID: 1741401672}
   - {fileID: 1596923033}
   - {fileID: 48047204}
   - {fileID: 1394712363}
   - {fileID: 619394802}
   - {fileID: 31354892}
   - {fileID: 1007413856}
+  - {fileID: 2121484164}
