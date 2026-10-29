@@ -219,6 +219,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -226,12 +239,12 @@ TextureImporter:
       name: Leo_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 639
-        width: 16
-        height: 28
+        x: 12
+        y: 640
+        width: 14
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -248,12 +261,12 @@ TextureImporter:
       name: Leo_1
       rect:
         serializedVersion: 2
-        x: 59
-        y: 639
-        width: 16
-        height: 27
+        x: 60
+        y: 640
+        width: 14
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -270,12 +283,12 @@ TextureImporter:
       name: Leo_2
       rect:
         serializedVersion: 2
-        x: 107
-        y: 639
-        width: 16
-        height: 27
+        x: 108
+        y: 640
+        width: 14
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -292,12 +305,12 @@ TextureImporter:
       name: Leo_3
       rect:
         serializedVersion: 2
-        x: 11
-        y: 591
-        width: 17
-        height: 27
+        x: 12
+        y: 592
+        width: 15
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,12 +327,12 @@ TextureImporter:
       name: Leo_4
       rect:
         serializedVersion: 2
-        x: 61
-        y: 591
-        width: 12
-        height: 28
+        x: 62
+        y: 592
+        width: 10
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,12 +349,12 @@ TextureImporter:
       name: Leo_5
       rect:
         serializedVersion: 2
-        x: 107
-        y: 591
-        width: 16
-        height: 27
+        x: 108
+        y: 592
+        width: 14
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,12 +371,12 @@ TextureImporter:
       name: Leo_6
       rect:
         serializedVersion: 2
-        x: 157
-        y: 591
-        width: 12
-        height: 28
+        x: 158
+        y: 592
+        width: 10
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,12 +393,12 @@ TextureImporter:
       name: Leo_7
       rect:
         serializedVersion: 2
-        x: 10
-        y: 543
-        width: 17
-        height: 27
+        x: 11
+        y: 544
+        width: 15
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -402,12 +415,12 @@ TextureImporter:
       name: Leo_8
       rect:
         serializedVersion: 2
-        x: 61
-        y: 543
-        width: 12
-        height: 28
+        x: 62
+        y: 544
+        width: 10
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,12 +437,12 @@ TextureImporter:
       name: Leo_9
       rect:
         serializedVersion: 2
-        x: 11
-        y: 495
-        width: 16
-        height: 26
+        x: 12
+        y: 496
+        width: 14
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -446,12 +459,12 @@ TextureImporter:
       name: Leo_10
       rect:
         serializedVersion: 2
-        x: 61
-        y: 495
-        width: 12
-        height: 28
+        x: 62
+        y: 496
+        width: 10
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -468,12 +481,12 @@ TextureImporter:
       name: Leo_11
       rect:
         serializedVersion: 2
-        x: 6
-        y: 447
-        width: 24
-        height: 28
+        x: 7
+        y: 448
+        width: 22
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,12 +503,12 @@ TextureImporter:
       name: Leo_12
       rect:
         serializedVersion: 2
-        x: 47
-        y: 447
-        width: 33
-        height: 30
+        x: 48
+        y: 448
+        width: 31
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -512,12 +525,12 @@ TextureImporter:
       name: Leo_13
       rect:
         serializedVersion: 2
-        x: 105
-        y: 447
-        width: 39
-        height: 26
+        x: 106
+        y: 448
+        width: 37
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,12 +547,12 @@ TextureImporter:
       name: Leo_14
       rect:
         serializedVersion: 2
-        x: 153
-        y: 447
-        width: 40
-        height: 26
+        x: 154
+        y: 448
+        width: 38
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -556,12 +569,12 @@ TextureImporter:
       name: Leo_15
       rect:
         serializedVersion: 2
-        x: 10
-        y: 399
-        width: 17
-        height: 22
+        x: 11
+        y: 400
+        width: 15
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -578,12 +591,12 @@ TextureImporter:
       name: Leo_16
       rect:
         serializedVersion: 2
-        x: 62
-        y: 399
-        width: 11
-        height: 23
+        x: 63
+        y: 400
+        width: 9
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -600,12 +613,12 @@ TextureImporter:
       name: Leo_17
       rect:
         serializedVersion: 2
-        x: 108
-        y: 399
-        width: 16
-        height: 22
+        x: 109
+        y: 400
+        width: 14
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -622,12 +635,12 @@ TextureImporter:
       name: Leo_18
       rect:
         serializedVersion: 2
-        x: 158
-        y: 399
-        width: 11
-        height: 23
+        x: 159
+        y: 400
+        width: 9
+        height: 21
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -644,12 +657,12 @@ TextureImporter:
       name: Leo_19
       rect:
         serializedVersion: 2
-        x: 12
-        y: 346
-        width: 13
-        height: 32
+        x: 13
+        y: 347
+        width: 11
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -666,12 +679,12 @@ TextureImporter:
       name: Leo_20
       rect:
         serializedVersion: 2
-        x: 61
-        y: 347
-        width: 13
-        height: 32
+        x: 62
+        y: 348
+        width: 11
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -688,12 +701,12 @@ TextureImporter:
       name: Leo_21
       rect:
         serializedVersion: 2
-        x: 8
-        y: 303
-        width: 18
-        height: 24
+        x: 9
+        y: 304
+        width: 16
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -710,12 +723,12 @@ TextureImporter:
       name: Leo_22
       rect:
         serializedVersion: 2
-        x: 56
-        y: 303
-        width: 18
-        height: 24
+        x: 57
+        y: 304
+        width: 16
+        height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -732,12 +745,12 @@ TextureImporter:
       name: Leo_23
       rect:
         serializedVersion: 2
-        x: 6
-        y: 271
-        width: 32
-        height: 10
+        x: 7
+        y: 272
+        width: 30
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -754,12 +767,12 @@ TextureImporter:
       name: Leo_24
       rect:
         serializedVersion: 2
-        x: 6
-        y: 207
-        width: 23
-        height: 26
+        x: 7
+        y: 208
+        width: 21
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -776,12 +789,12 @@ TextureImporter:
       name: Leo_25
       rect:
         serializedVersion: 2
-        x: 60
-        y: 207
-        width: 12
-        height: 27
+        x: 61
+        y: 208
+        width: 10
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -798,12 +811,12 @@ TextureImporter:
       name: Leo_26
       rect:
         serializedVersion: 2
-        x: 104
-        y: 207
-        width: 18
-        height: 28
+        x: 105
+        y: 208
+        width: 16
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -820,12 +833,12 @@ TextureImporter:
       name: Leo_27
       rect:
         serializedVersion: 2
-        x: 151
-        y: 207
-        width: 22
-        height: 27
+        x: 152
+        y: 208
+        width: 20
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -842,12 +855,12 @@ TextureImporter:
       name: Leo_28
       rect:
         serializedVersion: 2
-        x: 204
-        y: 207
-        width: 12
-        height: 27
+        x: 205
+        y: 208
+        width: 10
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -864,12 +877,12 @@ TextureImporter:
       name: Leo_29
       rect:
         serializedVersion: 2
-        x: 249
-        y: 207
-        width: 18
-        height: 28
+        x: 250
+        y: 208
+        width: 16
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -886,12 +899,12 @@ TextureImporter:
       name: Leo_30
       rect:
         serializedVersion: 2
-        x: 4
-        y: 159
-        width: 24
-        height: 32
+        x: 5
+        y: 160
+        width: 22
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -908,12 +921,12 @@ TextureImporter:
       name: Leo_31
       rect:
         serializedVersion: 2
-        x: 47
-        y: 159
-        width: 32
-        height: 33
+        x: 48
+        y: 160
+        width: 30
+        height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -930,12 +943,12 @@ TextureImporter:
       name: Leo_32
       rect:
         serializedVersion: 2
-        x: 105
-        y: 159
-        width: 32
-        height: 31
+        x: 106
+        y: 160
+        width: 30
+        height: 29
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -952,12 +965,12 @@ TextureImporter:
       name: Leo_33
       rect:
         serializedVersion: 2
-        x: 153
-        y: 159
-        width: 32
-        height: 26
+        x: 154
+        y: 160
+        width: 30
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -974,12 +987,12 @@ TextureImporter:
       name: Leo_34
       rect:
         serializedVersion: 2
-        x: 201
-        y: 159
-        width: 32
-        height: 26
+        x: 202
+        y: 160
+        width: 30
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -996,12 +1009,12 @@ TextureImporter:
       name: Leo_35
       rect:
         serializedVersion: 2
-        x: 9
+        x: 11
         y: 111
-        width: 21
-        height: 28
+        width: 15
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1018,12 +1031,12 @@ TextureImporter:
       name: Leo_36
       rect:
         serializedVersion: 2
-        x: 63
+        x: 35
         y: 111
-        width: 17
-        height: 30
+        width: 15
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1040,12 +1053,12 @@ TextureImporter:
       name: Leo_37
       rect:
         serializedVersion: 2
-        x: 113
+        x: 60
         y: 111
-        width: 22
-        height: 26
+        width: 15
+        height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1062,12 +1075,12 @@ TextureImporter:
       name: Leo_38
       rect:
         serializedVersion: 2
-        x: 10
-        y: 63
-        width: 18
-        height: 28
+        x: 87
+        y: 112
+        width: 16
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1084,12 +1097,12 @@ TextureImporter:
       name: Leo_39
       rect:
         serializedVersion: 2
-        x: 59
-        y: 63
-        width: 18
-        height: 28
+        x: 114
+        y: 112
+        width: 30
+        height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1103,37 +1116,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Leo_40
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 64
-        width: 18
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6347d42ed1647b290800000000000000
-      internalID: -7874748329269300170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Leo_41
       rect:
         serializedVersion: 2
-        x: 9
-        y: 15
-        width: 17
-        height: 22
+        x: 11
+        y: 64
+        width: 16
+        height: 26
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1146,11 +1137,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Leo_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 64
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158b790b6e1b69545aa02cc7d4afad98
+      internalID: 2018302495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 65
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746acf7e2dba57a42a5a69b81794b58b
+      internalID: -1029597222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_44
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 66
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6421fb3ad55bb44aa2f51599a9e9aa
+      internalID: 679220475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_45
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 67
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92cb0826f08e594e8c64bc85e03f9a1
+      internalID: -1575258950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leo_46
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f107f8f31472874bbddb62afddd6a0b
+      internalID: -1063885549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 95d395efeab814f4bb9ee8c5d71fa53f
     internalID: 0
     vertices: []
     indices: 
@@ -1158,7 +1259,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Leo_0: 5477913946314167194
       Leo_1: 8438109085104828848
@@ -1197,6 +1300,11 @@ TextureImporter:
       Leo_4: -4609516481125736496
       Leo_40: -7874748329269300170
       Leo_41: 7145678787180445065
+      Leo_42: 2018302495
+      Leo_43: -1029597222
+      Leo_44: 679220475
+      Leo_45: -1575258950
+      Leo_46: -1063885549
       Leo_5: 5922444551708798861
       Leo_6: -1236806731377150717
       Leo_7: -8261422260750146826
