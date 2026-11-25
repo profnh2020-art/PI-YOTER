@@ -737,7 +737,7 @@ Transform:
   m_GameObject: {fileID: 31354889}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 20.02, y: -2.78, z: 0}
+  m_LocalPosition: {x: -54.4, y: -2.78, z: 0}
   m_LocalScale: {x: 7.948334, y: 7.948334, z: 7.948334}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6464,7 +6464,7 @@ Transform:
   m_GameObject: {fileID: 453163908}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 20.02, y: 2.4085996, z: -10.06}
+  m_LocalPosition: {x: -54.4, y: 2.4085996, z: -10.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7712,7 +7712,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 20.02, y: 2.4085996, z: -10.06}
+  m_LocalPosition: {x: -54.4, y: 2.4085996, z: -10.06}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12172,8 +12172,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e21dcdc4744d2394db1953641d40a242, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MonstroPMovemento
-  player: {fileID: 31354892}
-  speed: 2
+  player: {fileID: 31354889}
+  speed: 3
+  spriteRenderer: {fileID: 31354891}
 --- !u!95 &966218576
 Animator:
   serializedVersion: 7
@@ -12264,8 +12265,8 @@ Transform:
   m_GameObject: {fileID: 966218574}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -41.57156, y: -2.1390378, z: 0}
-  m_LocalScale: {x: 7.948334, y: 7.948334, z: 7.948334}
+  m_LocalPosition: {x: -41.57156, y: -2.812, z: 0}
+  m_LocalScale: {x: 8, y: 8, z: 8}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -12304,8 +12305,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0.0037936599, y: 0}
-  m_Size: {x: 0.23241271, y: 0.28}
+  m_Offset: {x: 0.008246899, y: -0.0020554364}
+  m_Size: {x: 0.20843315, y: 0.23889118}
   m_Direction: 0
 --- !u!50 &966218580
 Rigidbody2D:
@@ -12333,7 +12334,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!1 &971004198
 GameObject:
   m_ObjectHideFlags: 0
